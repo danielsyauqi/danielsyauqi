@@ -3,7 +3,7 @@ A passionate tech enthuasists that have some balls.
 
 ---
 
-## 🚀 About Me- 
+## 🚀 About Me
 **Current Role:** Developer at ALPHV Technologies Sdn Bhd, Bangsar South.
 **Specialties:** Web development, automation, risk management, security, and professional training.
 **Philosophy:** Less yap, more tap — I believe in action and delivering results.
@@ -33,7 +33,7 @@ A passionate tech enthuasists that have some balls.
 
 ---
 
-## 📫 Feel free to connect or reach out if you want to collaborate on secure web solutions, automation projects, web based systems, cybersecurity/AI training, or just chat about tech and innovation!
+### 📫 Feel free to connect or reach out if you want to collaborate on secure web solutions, automation projects, web based systems, cybersecurity/AI training, or just chat about tech and innovation!
 
 ---
 
