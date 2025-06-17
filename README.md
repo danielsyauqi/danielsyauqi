@@ -1,4 +1,5 @@
-# Hi there, I'm Daniel Syauqi 👋Welcome to my GitHub profile! I’m passionate about building secure, scalable, and user-friendly web solutions, with a strong focus on automation, risk management, and cybersecurity training.
+# Hi there, I'm Daniel Syauqi 👋
+A passionate tech enthuasists that have some balls.
 
 ---
 
@@ -10,9 +11,9 @@
 ---
 
 ## 🏆 Achievements & Highlights
-**SecuRA:** Creator of SecuRA (Secured Risk Assessment), a web-based platform designed to modernize and automate risk management for organizations. SecuRA streamlines asset tracking, automates risk workflows, and enhances security, replacing outdated systems with a seamless experience.
-**Bram Agency Loan Management System:** Developed a comprehensive loan management system for Bram Agency ([bram.com.my](https://bram.com.my)), enabling efficient management of the entire lending lifecycle. The system supports borrower management, loan origination, debt collection, and a variety of loan types and interest calculations. It features automated loan servicing, payment tracking, reporting, and employee management, providing a professional and user-friendly experience for both staff and clients.
-**Kursus Asas Pentest Web:** Successfully organized and conducted the "Kursus Asas Pentest Web", an introductory web penetration testing course. This achievement demonstrates my commitment to sharing knowledge and empowering others in the cybersecurity community, as highlighted in my LinkedIn post.
+- **SecuRA:** Creator of SecuRA (Secured Risk Assessment), a web-based platform designed to modernize and automate risk management for organizations. SecuRA streamlines asset tracking, automates risk workflows, and enhances security, replacing outdated systems with a seamless experience.
+- **Bram Agency Loan Management System:** Developed a comprehensive loan management system for Bram Agency ([bram.com.my](https://bram.com.my)), enabling efficient management of the entire lending lifecycle. The system supports borrower management, loan origination, debt collection, and a variety of loan types and interest calculations. It features automated loan servicing, payment tracking, reporting, and employee management, providing a professional and user-friendly experience for both staff and clients.
+- **Kursus Asas Pentest Web:** Successfully organized and conducted the "Kursus Asas Pentest Web", an introductory web penetration testing course. This achievement demonstrates my commitment to sharing knowledge and empowering others in the cybersecurity community, as highlighted in my LinkedIn post.
 
 ---
 
